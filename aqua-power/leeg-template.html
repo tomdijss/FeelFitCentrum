@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aqua Power — Lege leskaart | FeelFitCentrum</title>
+  <link rel="stylesheet" href="print.css" />
+  <style>
+    .blank .card { min-height: 100%; }
+    .blank .fill-line {
+      border-bottom: 1px dotted #9aafba;
+      min-height: 1.1em;
+      margin: 0.15rem 0;
+    }
+    .blank .grid-ex {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.15rem 0.5rem;
+      padding-left: 0;
+      list-style: none;
+    }
+    .blank .grid-ex li::before {
+      content: counter(ex) ". ";
+      counter-increment: ex;
+      color: var(--accent);
+      font-weight: 700;
+    }
+    .blank .grid-ex { counter-reset: ex; }
+  </style>
+</head>
+<body>
+  <header class="screen-only toolbar">
+    <div>
+      <strong>FeelFitCentrum</strong> · Lege leskaarten (invullen / kopiëren)
+      <span class="hint">Zelfde A4-liggend formaat · 2 lege lessen per kant</span>
+    </div>
+    <button type="button" onclick="window.print()">Printen</button>
+  </header>
+
+  <main class="booklet blank">
+    <section class="sheet">
+      <article class="card">
+        <header class="card-head">
+          <p class="brand">FeelFitCentrum · Aqua Power</p>
+          <h1>Les ___ · <span style="border-bottom:1px dotted #9aafba;display:inline-block;min-width:8rem">&nbsp;</span></h1>
+          <p class="meta">45 min · Materiaal: ____________________________</p>
+        </header>
+        <div class="block">
+          <h2>Warming-up <span>5 min · geen materiaal</span></h2>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+        </div>
+        <div class="block kern">
+          <h2>Kern 1 <span>8×1 min · 2 rondes · ________</span></h2>
+          <ol class="grid-ex">
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+          </ol>
+        </div>
+        <div class="block kern">
+          <h2>Kern 2 <span>8×1 min · 2 rondes · ________</span></h2>
+          <ol class="grid-ex">
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+          </ol>
+        </div>
+        <div class="block">
+          <h2>Buikspieren <span>5 min · 1 ronde</span></h2>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+        </div>
+        <div class="block cool">
+          <h2>Cooling-down <span>5 min</span></h2>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+        </div>
+      </article>
+
+      <article class="card">
+        <header class="card-head">
+          <p class="brand">FeelFitCentrum · Aqua Power</p>
+          <h1>Les ___ · <span style="border-bottom:1px dotted #9aafba;display:inline-block;min-width:8rem">&nbsp;</span></h1>
+          <p class="meta">45 min · Materiaal: ____________________________</p>
+        </header>
+        <div class="block">
+          <h2>Warming-up <span>5 min · geen materiaal</span></h2>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+        </div>
+        <div class="block kern">
+          <h2>Kern 1 <span>8×1 min · 2 rondes · ________</span></h2>
+          <ol class="grid-ex">
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+          </ol>
+        </div>
+        <div class="block kern">
+          <h2>Kern 2 <span>8×1 min · 2 rondes · ________</span></h2>
+          <ol class="grid-ex">
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+            <li><div class="fill-line"></div></li>
+          </ol>
+        </div>
+        <div class="block">
+          <h2>Buikspieren <span>5 min · 1 ronde</span></h2>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+        </div>
+        <div class="block cool">
+          <h2>Cooling-down <span>5 min</span></h2>
+          <div class="fill-line"></div>
+          <div class="fill-line"></div>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
