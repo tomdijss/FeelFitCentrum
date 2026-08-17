@@ -6,7 +6,8 @@ Printbare lesvoorbereidingen voor groepslessen Aqua Power.
 
 ### Openen
 
-Open [`aqua-power/index.html`](aqua-power/index.html) in de browser → knop **Printen**.
+- Klaar boekje (8 lessen): [`aqua-power/index.html`](aqua-power/index.html) → knop **Printen**
+- Lege invulkaarten: [`aqua-power/leeg-template.html`](aqua-power/leeg-template.html)
 
 ### Opmaak
 
