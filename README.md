@@ -1,28 +1,26 @@
 # FeelFitCentrum
 
-## Aqua Power lesboekje
+Printbare lesboekjes voor groepslessen aqua.
 
-Printbare lesvoorbereidingen voor groepslessen Aqua Power.
+## Twee boekjes
 
-### Openen
+| Les | Bad | Open |
+|-----|-----|------|
+| **Aqua Power** | 1,2–1,5 m · staan · ~schouders | [`aqua-power/index.html`](aqua-power/index.html) |
+| **Aqua Joggen** | 1,90 m · band · drijven | [`aqua-joggen/index.html`](aqua-joggen/index.html) |
 
-- Klaar boekje (8 lessen): [`aqua-power/index.html`](aqua-power/index.html) → knop **Printen**
-- Lege invulkaarten: [`aqua-power/leeg-template.html`](aqua-power/leeg-template.html)
+Lege invulkaarten: [`aqua-power/leeg-template.html`](aqua-power/leeg-template.html) · [`aqua-joggen/leeg-template.html`](aqua-joggen/leeg-template.html)
 
-### Opmaak
+## Printen
 
-- **A4 liggend**, 2 lessen per kant
-- Vouwen in het midden → **A5-boekje** (Les 01–08)
-- Dubbelzijdig printen met **omkeer korte zijde**
+- A4 **liggend**, dubbelzijdig, **omkeer korte zijde**
+- 2 lessen per kant → vouwen tot A5-boekje (Les 01–08)
+- Vel 2 in vel 1 leggen, vouwen, optioneel nieten
 
-### Lesstructuur (45 min)
+## Lesformule (beide)
 
-1. Warming-up 5 min (geen materiaal)
-2. Kern 1 — 8×1 min × 2 rondes
-3. Kern 2 — 8×1 min × 2 rondes
-4. Buikspieren — 5 min, 1 ronde
-5. Cooling-down 5 min
+WU 5×1′ → Kern1 8×1′×2 → Kern2 8×1′×2 → Buik 5×1′ → CD 5′ · **1 klokslag = 1′**
 
-Materiaal in omloop: dumbbells, aqua noodles, schijven, ballen, aqua barbells.
+Doelgroep: 60+ fanatiek · been ↔ arm wisselen · Feel Good Classics · materiaal: DB, noodles, schijven, ballen, aqua barbells
 
-Zie ook [`aqua-power/oefeningen.md`](aqua-power/oefeningen.md) voor de oefeningenbibliotheek en variatie-regels.
+Naslag: [`aqua-power/oefeningen.md`](aqua-power/oefeningen.md) · [`aqua-joggen/oefeningen.md`](aqua-joggen/oefeningen.md)
