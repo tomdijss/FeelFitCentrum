@@ -30,4 +30,6 @@ Op telefoon: open een link → tik **01–08** bovenaan om te springen.
 
 WU 5×1′ → Kern1 8×1′×2 → Kern2 8×1′×2 → Buik 5×1′ → CD 5′ · **1 klokslag = 1′**
 
+**1 type materiaal per les** (of hele les zonder). Korte cue onder elke oefening.
+
 Doelgroep: 60+ fanatiek · been ↔ arm · Feel Good Classics · DB, noodles, schijven, ballen, aqua barbells

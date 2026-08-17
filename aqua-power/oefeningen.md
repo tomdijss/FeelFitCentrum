@@ -1,33 +1,39 @@
-# Aqua Power — oefeningen (staan · 1,2–1,5 m)
+# Oefenwoorden Feel Fit Center
 
-FeelFitCentrum · 60+ fanatiek · 1 klokslag = 1′ · Feel Good Classics
+60+ fanatiek · 1 klokslag = 1′ · **1 type materiaal per les** (of geen)
 
-## Structuur 45′
+## Lesformule 45′
 
-| Blok | Klok | Mat. |
-|------|------|------|
-| WU | 5×1′ | Geen |
-| Kern 1 | 8×1′ × 2 ronden | Blok A |
-| Kern 2 | 8×1′ × 2 ronden | Blok B |
-| Buik | 5×1′ | Licht |
-| CD | 5′ | Stretch |
+WU 5×1′ (altijd zonder mat.) → Kern1 8×1′×2 → Kern2 8×1′×2 → Buik 5×1′ → CD 5′
 
-## Been ↔ arm (vaste gewoonte)
+Kern 1 en 2 gebruiken **hetzelfde** materiaal.
 
-Elke minuut bij voorkeur: **beenpatroon + arm/mat.**
+## Rotatie (8 lessen)
 
-Beenbasis: jog · open/dicht · kick V-N-A · ski/cross-country · side step · fast feet · squat/lunge (bodem OK)
+| Les | Materiaal |
+|-----|-----------|
+| 01 | geen |
+| 02 | dumbbells |
+| 03 | aqua barbells |
+| 04 | noodles |
+| 05 | schijven |
+| 06 | ballen |
+| 07 | geen (tempo-variant) |
+| 08 | dumbbells (boxen-variant) |
 
-## Power-only (staan)
+## Jouw namen (zo cue’en we)
 
-Squat · lunge L/R · wall sit · wall plank · grapevine · power walk van de bodem
+**Armen:** circel press · press · circels · circels zijwaarts · reverse fly · fly · side raises · side press · upright row · row · pull down · dippen · biceps · triceps · wood chopper · kanoen · boten · boxen · uppercuts · water scheppen (voor/achter)
 
-## Materiaal (armen)
+**Benen / combo:** jog · skippen · hakken + knie · jumping jack · high jack · kikker · onder knie kijken · onder knie doorgeven · achter doorgeven · basketball · kick · jump · twist · lang · laag
 
-DB · barbell · noodle · schijf · bal — zie lesboekje voor combinaties.
+**Cues:** `+ jog` · `+ lang` (groot/traag) · `+ laag` (diep in het water) · `+ benen` · `+ kick`
 
-## Variatie
+## Power vs joggen
 
-1. Nooit twee kernen hetzelfde materiaal  
-2. Wissel beenpatroon per les  
-3. Buik: twist + flexie + hold  
+Power (staan): squat, lunge, grapevine, wall sit, sprong OK  
+Joggen (band): bicycle, kick-back, side kick travel, V-sit — **geen bodem**
+
+## Variatie-regel
+
+Niet elke les dezelfde 8. Favorieten komen terug, maar in een andere combo (beenpatroon / tempo / materiaal).
